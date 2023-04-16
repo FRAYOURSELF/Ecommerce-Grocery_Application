@@ -32,3 +32,48 @@ So here user can see the products based on the categories like we can see when t
 In a similar manner, when we click on other categories all the product-related that category will get displayed on the screen.
 
 And if want user can also search products from the header part. Let's suppose the user search red, so all the products which contain red in their product title will get displayed on the screen.
+
+If we see the product on the screen we are able to see the product title, product image, price, discount, quantity. And if we see a product description after some words I have added 3 dots. Because If I try to add the whole description here only then it takes too much space and thereby it will not look good.
+
+But If a user wants to see the whole description he can open that product.
+
+[![website](./img/3.png)]()
+
+So users can see whole details here and below the selected product we will be able to see RELATED PRODUCTS.
+
+But, now the user has to log in as a customer to buy the product otherwise we will get the message as "Please login to buy the product."
+
+At header part i.e at navbar beside the search option we have about page, contact us, forget password, register, and login option. 
+
+And Now Let's Register as a Customer. Here all the fields on the registration page are validated.
+
+[![website](./img/4.png)]()
+
+So after registration, we will get the message "REGISTRATION SUCCESSFUL" and name's details will get added to the database.
+Now we again try to register as same names's email Id then we will get message as "THIS USER IS ALREADY  REGISTERED".
+
+Now if we try to login as the wrong email Id we will get the message as "THIS USER IS NOT REGISTERED".
+
+Let's login by entering proper details.
+
+[![website](./img/5.png)]()
+
+Here, after log in as a customer, we will able to see some more option at the header(Navigation bar) like cart, my orders, change password and logout.
+
+[![website](./img/6.png)]()
+
+Now user can buy the product. So let's add some products to the cart. 
+[![website](./img/7.png)]()
+
+Here are some other relevant--
+[![website](./img/8.png)]()
+[![website](./img/9.png)]()
+
+Admin Page--
+[![website](./img/10.png)]()
+[![website](./img/11.png)]()
+[![website](./img/12.png)]()
+[![website](./img/13.png)]()
+[![website](./img/14.png)]()
+
+
